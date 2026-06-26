@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=wwlwgo&color=blue&style=flat-square)](https://github.com/wwlwgo)
 [![GitHub followers](https://img.shields.io/github/followers/wwlwgo?style=flat-square)](https://github.com/wwlwgo?tab=followers)
 [![Years of Experience](https://img.shields.io/badge/工程经验-25年-orange?style=flat-square)](#)
-[![AI Journey](https://img.shields.io/badge/AI探索-1年-blueviolet?style=flat-square)](#)
+[![AI Journey](https://img.shields.io/badge/AI探索-3年-blueviolet?style=flat-square)](#)
 
 </div>
 
@@ -15,11 +15,11 @@
 
 ## 🎯 我是谁
 
-> **一个 51 岁的工程老炮，正在用 AI 重新定义自己。**
+> **一个 老工程人，正在用 AI 重新定义自己。**
 
 25 年大型工程项目管理经验，经历过 10 亿+ 项目的完整生命周期。
 近 1 年开始系统性探索 AI 智能体（Claude Code、Trae、OpenClaw、Hermes），
-目标是在 1.5 年内**转型到 AI 行业**。
+目标是**转型到 AI 行业**。
 
 ---
 
@@ -27,7 +27,7 @@
 
 | 优先级 | 方向 | 切入点 |
 |--------|------|--------|
-| 🥇 首选 | **IDC 采购 / 算力基础设施** | 工程管理经验 + 政企客户资源 |
+| 🥇 首选 | **IDC 采购 / 算力基础设施** | 工程管理经验 |
 | 🥈 次选 | **AI 落地咨询 / 行业 PM / 培训** | 25 年传统行业 know-how |
 
 ---
@@ -82,7 +82,7 @@
 ### 📚 [learning-log](https://github.com/wwlwgo/learning-log)
 **51 岁程序员的 AI 学习笔记**
 - 学习过程 / 踩坑 / 心路
-- 持续更新，拒绝"突击包装"
+- 持续更新。
 
 </td>
 </tr>
