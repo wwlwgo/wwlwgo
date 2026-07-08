@@ -1,88 +1,81 @@
 <div align="center">
 
-# 👋 你好，我是 Mr. WU
+# 你好，我是 Mr. WU
 
-### **25 年工程管理 × AI 智能体实践** | 正在向 AI 行业转型
+### 工程管理 · AI 工作流 · 文档自动化
 
 [![Profile Views](https://komarev.com/ghpvc/?username=wwlwgo&color=blue&style=flat-square)](https://github.com/wwlwgo)
 [![GitHub followers](https://img.shields.io/github/followers/wwlwgo?style=flat-square)](https://github.com/wwlwgo?tab=followers)
-[![Years of Experience](https://img.shields.io/badge/工程经验-25年-orange?style=flat-square)](#)
-[![AI Journey](https://img.shields.io/badge/AI探索-3年-blueviolet?style=flat-square)](#)
+[![Engineering Experience](https://img.shields.io/badge/工程经验-25年-orange?style=flat-square)](#)
+[![AI Workflows](https://img.shields.io/badge/AI工作流-实践中-blueviolet?style=flat-square)](#)
 
 </div>
 
 ---
 
-## 🎯 我是谁
+## 关于我
 
-> **一个 老工程人，正在用 AI 重新定义自己。**
+我长期从事工程项目管理工作，主要经历集中在大型基础设施、工程监理、项目协调和工程文档管理等场景。
 
-25 年大型工程项目管理经验，经历过 10 亿+ 项目的完整生命周期。
-近 1 年开始系统性探索 AI 智能体（Claude Code、Trae、OpenClaw、Hermes），
-目标是**转型到 AI 行业**。
+近几年，我开始系统探索 AI 智能体、脚本、模板和结构化工作流如何服务于工程管理工作，尤其是那些重复出现、规则明确、需要保留专业判断和审查边界的文档任务。
 
----
+这个 GitHub 主页主要用于沉淀这些探索：
 
-## 🚀 转型方向
-
-| 优先级 | 方向 | 切入点 |
-|--------|------|--------|
-| 🥇 首选 | **IDC 采购 / 算力基础设施** | 工程管理经验 |
-| 🥈 次选 | **AI 落地咨询 / 行业 PM / 培训** | 25 年传统行业 know-how |
+- 将真实工程工作流整理为可复用的 AI-assisted skills
+- 将重复性的工程文档任务转化为模板、脚本和结构化流程
+- 在自动化过程中保留事实依据、专业判断和人工复核边界
+- 用脱敏样例展示方法，避免公开真实项目和敏感资料
 
 ---
 
-## 🛠️ 技术雷达
-
-| 领域 | 能力 | 状态 |
-|------|------|------|
-| 🏗️ 工程管理（WBS / 风险 / 监理 / 造价） | ⭐⭐⭐⭐⭐ | 25 年沉淀 |
-| 📊 数据仓库（SQL / ETL / 维度建模） | ⭐⭐⭐⭐ | 2001-2008 中国网通实战 |
-| 🤖 AI 智能体（Claude Code / Trae / MCP） | ⭐⭐⭐ | 近 1 年系统学习 |
-| 💻 编程（Python / Shell / SQL） | ⭐⭐⭐ | 工作中持续使用 |
-| ☁️ 云与算力（IDC / 采购 / 选型） | ⭐⭐⭐ | 工程视角理解中 |
-
----
-
-## 📌 精选项目
+## 精选项目
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏗️ [engineering-playbook](https://github.com/wwlwgo/engineering-playbook)
-**25 年工程管理方法论沉淀**
-- WBS / 风险 / 监理 / 造价
-- 配套 SOP 与 Checklist 模板
-- 持续融入 AI 工具
+### [engineering-ai-skills](https://github.com/wwlwgo/engineering-ai-skills)
+
+工程管理 AI Skill 作品集。
+
+- 监理工作报告
+- 工程监理工作联系单
+- 专项施工方案修改复核
+- 集成管理例会会议纪要
+- 脱敏示例、模板、脚本和 evals
 
 </td>
 <td width="50%">
 
-### 📋 [site-supervision-report](https://github.com/wwlwgo/site-supervision-report)
-**监理报告 AI 自动化实战**
-- AI 智能体生成监理文档
-- 旁站 / 巡视 / 平行检验记录
-- 工程 AI 落地的真实案例
+### [site-supervision-report](https://github.com/wwlwgo/site-supervision-report)
+
+AI 辅助监理报告工作流。
+
+- 现场检查和监理报告结构
+- 会议纪要、现场记录到报告草稿
+- 可复用报告模板和处理脚本
 
 </td>
 </tr>
 <tr>
 <td>
 
-### 🤖 [ai-agents-in-practice](https://github.com/wwlwgo/ai-agents-in-practice)
-**AI 智能体实战工作流**
-- Claude Code / Trae 实战记录
-- MCP 协议探索
-- 传统行业 AI 应用场景
+### [project4](https://github.com/wwlwgo/project4)
+
+AI 辅助工程管理和个人效率实验项目。
+
+- 实用工具实验
+- 工作流记录
+- 可复用项目材料
 
 </td>
 <td>
 
-### 📚 [learning-log](https://github.com/wwlwgo/learning-log)
-**51 岁程序员的 AI 学习笔记**
-- 学习过程 / 踩坑 / 心路
-- 持续更新。
+### 持续整理中
+
+我正在逐步把过去的私有仓库整理成可以公开、可以审查、已经脱敏的项目。
+
+重点不是数量，而是每个公开仓库都能说明一个真实问题、一套可复用方法和清晰的使用边界。
 
 </td>
 </tr>
@@ -90,36 +83,32 @@
 
 ---
 
-## 💡 我相信
+## 我关注的事情
 
-> **"AI 不会替代工程师，但懂工程的工程师用 AI 可以放大 10 倍。"**
-
-我的差异化优势：
-- ✅ 25 年行业 know-how（轨道交通、监理、政企客户）
-- ✅ 10 亿+ 项目实操经验
-- ✅ 数据仓库早期实战背景
-- ✅ 正在系统性学习 AI，不是"嘴上说 AI"
+- **工程语境**：AI 工具需要尊重真实项目约束、责任边界和复核流程。
+- **文档质量**：报告、纪要、联系单和复核记录应当结构清楚、依据明确、便于检查。
+- **可复用工作流**：好的 AI 工作流应当可以重复执行、可以配置、可以审查。
+- **脱敏与边界**：公开样例应保留方法价值，同时移除项目敏感信息。
+- **务实学习**：能解决重复工作的工具和流程，比概念化表达更有价值。
 
 ---
 
-## 📊 GitHub 数据
+## 当前重点
 
-<div align="center">
+我目前主要在整理和实践：
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwlwgo&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwlwgo&layout=compact&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wwlwgo&hide_border=true)
-
-</div>
-
----
-
-## 📫 联系我
-
-- 📧 邮箱：wgo@163.com
-
-> **期待与 IDC 厂商、AI 落地咨询、AI 行业 PM 方向的伙伴交流。**
+- 工程管理场景下的 AI skills
+- AI 辅助工程文档自动化
+- 审查、复核、比对类工作流
+- 项目协调和会议纪要模板
+- 传统行业中的 AI 智能体应用方式
 
 ---
 
-<sub>📌 最后更新：2026-06 | 🚀 持续迭代中 | ⭐ 如果你也在转型，欢迎 Star 关注我的旅程</sub>
+## 联系方式
+
+- 邮箱：wgo@163.com
+
+---
+
+<sub>最后更新：2026-07 · 谨慎公开，持续整理。</sub>
