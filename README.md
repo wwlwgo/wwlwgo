@@ -2,12 +2,12 @@
 
 # 你好，我是 Mr. WU
 
-### 工程管理 · AI 工作流 · 文档自动化
+### 工程管理 · AI 工作流 · 文档自动化实践
 
 [![Profile Views](https://komarev.com/ghpvc/?username=wwlwgo&color=blue&style=flat-square)](https://github.com/wwlwgo)
 [![GitHub followers](https://img.shields.io/github/followers/wwlwgo?style=flat-square)](https://github.com/wwlwgo?tab=followers)
 [![Engineering Experience](https://img.shields.io/badge/工程经验-25年-orange?style=flat-square)](#)
-[![AI Workflows](https://img.shields.io/badge/AI工作流-实践中-blueviolet?style=flat-square)](#)
+[![AI Workflows](https://img.shields.io/badge/AI工作流-持续整理-blueviolet?style=flat-square)](#)
 
 </div>
 
@@ -28,58 +28,38 @@
 
 ---
 
-## 精选项目
+## 当前公开项目
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### [engineering-ai-skills](https://github.com/wwlwgo/engineering-ai-skills)
 
-工程管理 AI Skill 作品集。
+工程管理 AI Skill 作品集，用来整理工程文档、监理流程、复核检查和会议纪要等场景中的 AI-assisted workflows。
 
-- 监理工作报告
-- 工程监理工作联系单
-- 专项施工方案修改复核
-- 集成管理例会会议纪要
-- 脱敏示例、模板、脚本和 evals
-
-</td>
-<td width="50%">
-
-### [site-supervision-report](https://github.com/wwlwgo/site-supervision-report)
-
-AI 辅助监理报告工作流。
-
-- 现场检查和监理报告结构
-- 会议纪要、现场记录到报告草稿
-- 可复用报告模板和处理脚本
-
-</td>
-</tr>
-<tr>
-<td>
-
-### [project4](https://github.com/wwlwgo/project4)
-
-AI 辅助工程管理和个人效率实验项目。
-
-- 实用工具实验
-- 工作流记录
-- 可复用项目材料
-
-</td>
-<td>
-
-### 持续整理中
-
-我正在逐步把过去的私有仓库整理成可以公开、可以审查、已经脱敏的项目。
-
-重点不是数量，而是每个公开仓库都能说明一个真实问题、一套可复用方法和清晰的使用边界。
+- 将真实工程工作流抽象为可复用 Skill
+- 提供脱敏示例、模板、脚本和 evals
+- 保留人工复核、事实依据和使用边界
+- 持续沉淀工程管理场景下的 AI 实践方法
 
 </td>
 </tr>
 </table>
+
+---
+
+## 正在整理的方向
+
+我正在逐步把过去的私有项目整理成可以公开、可以审查、已经脱敏的内容。当前重点包括：
+
+- 工程监理报告、联系单、会议纪要等文档工作流
+- 审查、复核、比对类 AI-assisted skills
+- 工程项目协调中的模板化和结构化流程
+- 可独立运行的工程管理工具或 Web 系统
+- 个人效率工具中可复用、可说明的方法部分
+
+重点不是仓库数量，而是每个公开项目都能说明一个真实问题、一套可复用方法和清晰的使用边界。
 
 ---
 
