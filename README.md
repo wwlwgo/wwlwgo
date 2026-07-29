@@ -29,10 +29,31 @@
 
 ---
 
+## 最新项目
+
+### [cn-primary-math-knowledge-graph](https://github.com/wwlwgo/cn-primary-math-knowledge-graph)
+
+中国小学数学微知识点依赖数据集。这个项目把小学数学中的学习目标、课程标准、能力锚点和候选依赖关系整理成机器可读的 JSON 数据，并配套 Schema、校验脚本、发布清单和静态知识图谱浏览器。
+
+它不是教材、题库或教学应用，而是一套面向诊断工具、学习路径规划器、教师工具和 AI 助教的基础设施数据。项目重点放在可追溯、可验证、可复核，以及清晰声明候选数据和专家确认之间的边界。
+
+---
+
 ## 当前公开项目
 
 <table>
 <tr>
+<td width="50%">
+
+### [cn-primary-math-knowledge-graph](https://github.com/wwlwgo/cn-primary-math-knowledge-graph)
+
+中国小学数学微知识点依赖数据集。
+
+- JSON 数据、Schema、校验脚本和发布清单
+- 学习目标、课程标准、能力锚点和候选依赖关系
+- 静态知识图谱浏览器参考应用
+
+</td>
 <td width="50%">
 
 ### [engineering-ai-skills](https://github.com/wwlwgo/engineering-ai-skills)
@@ -44,6 +65,8 @@
 - 提供脱敏示例、模板、脚本和 evals
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [engineering-nas-gateway](https://github.com/wwlwgo/engineering-nas-gateway)
@@ -53,19 +76,6 @@
 - VPS / Nginx / HTTPS / WireGuard 访问链路
 - 动态 IP 场景下的自动化维护思路
 - 架构文档、示例配置和安全边界说明
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [cn-primary-math-knowledge-graph](https://github.com/wwlwgo/cn-primary-math-knowledge-graph)
-
-中国小学数学微知识点依赖数据集。
-
-- 机器可读的 JSON 数据、Schema 和校验脚本
-- 学习目标、课程标准、能力锚点和候选依赖关系
-- 静态知识图谱浏览器参考应用
 
 </td>
 <td width="50%">
